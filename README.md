@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!-- followers -->
 <!-- [![Github](https://img.shields.io/github/followers/almaceleste?label=Follow&style=social)](https://github.com/almaceleste) -->
 
-<!-- github statistics -->
+<!-- github statistics and languages -->
 <!-- ![github statistics](https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react) -->
-<img src="https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react" height=150/>
-
-<!-- github languages -->
 <!-- ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react) -->
+<img src="https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react" height=150/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react' height=150/>

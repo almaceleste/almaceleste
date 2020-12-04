@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 <!-- github statistics and languages -->
 <!-- ![github statistics](https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react) -->
 <!-- ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react) -->
-<img src="https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react" height=150/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react' height=150/>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react" height=150/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react' height=150/>
+</p>

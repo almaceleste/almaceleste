@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <!-- [![Github](https://img.shields.io/github/followers/almaceleste?label=Follow&style=social)](https://github.com/almaceleste) -->
 
 <!-- github statistics -->
-![github statistics](https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react)
+<!-- ![github statistics](https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react) -->
+<img src="https://github-readme-stats.vercel.app/api?username=almaceleste&show_icons=true&theme=react" height=150/>
 
 <!-- github languages -->
-![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&theme=react)
+<!-- ![github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react) -->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=almaceleste&layout=compact&theme=react' height=150/>
